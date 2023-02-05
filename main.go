@@ -1,7 +1,8 @@
+// main.go
 package main
 
 import "fmt"
 
-func main() string {
-  return "Hello, world!"
+func main() {
+    fmt.Println("Hello, world!")
 }
