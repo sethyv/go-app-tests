@@ -40,7 +40,7 @@ To run the tests for the application, use the following command:
 
 `$ go test -v`
 
-Have fun coding :rocket:
+Have fun coding :rocket::rocket:
 
 ## Contributing
 
