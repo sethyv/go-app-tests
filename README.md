@@ -24,8 +24,6 @@ Build the application:
 
 `$ go build`
 
-Have fun coding :rocket:
-
 ### Running the Application
 
 To run the application, simply execute the binary file:
@@ -41,6 +39,8 @@ You should see the following output:
 To run the tests for the application, use the following command:
 
 `$ go test -v`
+
+Have fun coding :rocket:
 
 ## Contributing
 
